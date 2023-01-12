@@ -1,0 +1,31 @@
+body {
+    background-color: #2C3333;
+}
+
+p, td, label{
+    color: #E7F6F2;
+}
+
+table, tr{
+    vertical-align: top;
+}
+
+a {
+    color: #A5C9CA;
+}
+
+h1, h2, th {
+    color: #A5C9CA;
+}
+
+hr {
+    border-color: #A5C9CA;
+    border-style: dashed;
+}
+img {
+    max-width: 170px;
+}
+
+input, textarea{
+    background-color: #E7F6F2;
+}
